@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:WpfKeszAppGyakProj"
         mc:Ignorable="d"
         Title="ToDo List" Height="400" Width="300" MaxHeight="500" MaxWidth="400" MinHeight="300" MinWidth="250">
-        
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
